@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shlokhub
+- 👋 Hi, I’m Shlok.
 - 👀 I’m interested in SAPUI5 development and front-end web development.
 - 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on SAPUI5 Projects.
